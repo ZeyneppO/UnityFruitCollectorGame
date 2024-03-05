@@ -1,4 +1,4 @@
-# It's a simple game a made while I was learning Unity. 
+# It's a simple game I made while I was learning Unity. 
 You can move horizontally using left and right arrow keys to collect the fruits, avoiding the balls. 
 
 You can play it here https://zeyynepo.itch.io/fruit-fiesta
