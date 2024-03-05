@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39f0cf9bc81f4fa4694abe5c416923b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PeachPrefab: {fileID: 224711150003093646, guid: 0722263bf7ef0e149a8f6596ce82c4b1, type: 3}
+  - PearPrefab: {instanceID: 0}
+  - PomPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
